@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-drm",
+  "version": "1.0.0",
+  "description": "This repository contains an example of DRM usage with mongoose framework",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovmvale/nodejs-drm.git"
+  },
+  "author": "Joao Victor M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovmvale/nodejs-drm/issues"
+  },
+  "homepage": "https://github.com/joaovmvale/nodejs-drm#readme",
+  "dependencies": {
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
